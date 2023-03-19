@@ -3,8 +3,12 @@
 - MacOS 필수 앱
 
 
+
+
 ### 일반 FHD모니터가 맥북 연결시 선명하지 않다면
 
-**Better Display**
-1080p HIDPI까지 지원 / dmg설치 / 부분유료
-https://github.com/waydabber/BetterDisplay
+<br>
+
+#### **Better Display**
+`일반 FHD모니터에서 1080p HIDPI 지원 / dmg설치 / 부분유료`   
+🔗 https://github.com/waydabber/BetterDisplay
