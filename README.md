@@ -5,7 +5,7 @@
 <br>
 
 
-### 일반 FHD모니터가 맥북 연결시 선명하지 않다면(HIDPI)
+### ✅ 일반 FHD모니터가 맥북 연결시 선명하지 않다면(HIDPI)
 ---
 
 #### **Better Display**
@@ -15,7 +15,7 @@
 
 <br>
 
-### macOS Bootable Disk / 부팅 디스크 만들기
+### ✅ macOS Bootable Disk / 부팅 디스크 만들기
 ---
 
 1. dmg파일을 탑재 후 ₩macOS Ventura 설치.app`파일을 응용프로그램 디렉토리에 넣거나 (경로: `/Applications`)   
