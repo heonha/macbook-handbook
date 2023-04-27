@@ -25,6 +25,9 @@
 
 3. 터미널을 열고 `sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume` 을 만들어줍니다.
 
+기타 OS의 경우 애플 공식링크를 참고하세요
+https://support.apple.com/en-us/HT201372
+
 
 정상적인 경우
 ```
