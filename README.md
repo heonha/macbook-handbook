@@ -4,6 +4,40 @@
 
 <br>
 
+### ✅ MacOS 필수 앱
+- Magnet (AppStore/유료) : macOS  창 정렬 앱, 단축키 누르거나 갖다대면 알아서 정렬됨   
+(갖다대면 붙는 것이 아래와 차이점입니다.)   
+https://apps.apple.com/us/app/magnet/id441258766?mt=12
+
+
+- Spectacle (설치형/무료) : macOS 창 정렬 앱, 단축키 누르면 정렬할 수 있음   
+https://www.spectacleapp.com
+
+
+- Keyboard Clean Tool(설치형/무료): 키보드 닦을때 입력 막아주는 앱   
+https://folivora.ai/keyboardcleantool
+
+
+### ✅ MacOS 선택 앱
+- CoconutBattert (설치형/무료): 배터리 용량 확인   
+https://www.coconut-flavour.com/coconutbattery/
+
+- iMazing (설치형/부분유료):  ipa 추출 등, iPhone의 Deep한 관리   
+https://imazing.com/ko?gad=1&gclid=CjwKCAjwuqiiBhBtEiwATgvixGQ7RLOBDLcpcJzV0n-4dw8zzguE7fic12C7YEhvDKdVFPPX0jev2BoC5JsQAvD_BwE
+
+
+### 📲 개발자 추천 앱   
+- DeepWork (AppStore/무료): 집중시간 상단 작업표시줄에 나오고, 기록할 수 있음
+https://apps.apple.com/kr/app/%EB%94%A5%EC%9B%8C%ED%81%AC-%EC%A7%81%EA%B4%80%EC%A0%81%EC%9D%B8-%EB%AA%B0%EC%9E%85-%EB%8F%84%EA%B5%AC-deepwork/id1464410783
+
+
+- jandi (AppStore/무료): Github 커밋잔디를 현황을 볼수 있음   
+https://apps.apple.com/kr/app/jandi-%EA%B9%83%ED%97%99-%EC%9E%94%EB%94%94%EB%A5%BC-%EC%83%81%ED%83%9C%EB%B0%94%EC%97%90%EC%84%9C-%EC%86%90%EC%89%BD%EA%B2%8C-%EB%B3%B4%EC%9E%90/id1551460285?mt=12
+
+
+- iTerm2: 터미널과 동일하지만 터미널 대비 더 세부적인 옵션들이 많음 (보통 oh my zsh와 함께 사용)   
+https://iterm2.com
+
 
 ### ✅ 일반 FHD모니터가 맥북 연결시 선명하지 않다면(HIDPI)
 ---
