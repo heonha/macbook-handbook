@@ -9,12 +9,12 @@
 ### 일반 FHD모니터가 맥북 연결시 선명하지 않다면(HIDPI)
 ---
 
-<br>
-
 #### **Better Display**
 `일반 FHD모니터에서 1080p HIDPI 지원 / dmg설치 / 부분유료`   
 🔗 https://github.com/waydabber/BetterDisplay
 
+
+<br>
 
 ### macOS Bootable Disk / 부팅 디스크 만들기
 ---
